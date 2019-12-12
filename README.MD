@@ -94,3 +94,14 @@ Esto es un texto referente a una cita.
 > Esto es una cita.
 
 Esto es otro texto.
+
+# Lineas Divisoras
+
+Esto es un texto que sera devidido.
+
+---
+Esto es un texto que otro que sera devidido.
+
+***
+Esto es un texto que otro que sera devidido.
+___

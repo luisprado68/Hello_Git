@@ -81,3 +81,8 @@ namespace MyApplication
     }
 }
 ```
+# Tablas
+
+|Nombre|Apellido|Documento|
+|------|--------|---------|
+|Maximo| Lopez|45455255|
